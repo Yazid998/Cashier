@@ -1,0 +1,11 @@
+C:\Users\yazid\source\repos\CashierAppSol\CashierApp\bin\Debug\CashierApp.exe.config
+C:\Users\yazid\source\repos\CashierAppSol\CashierApp\bin\Debug\CashierApp.exe
+C:\Users\yazid\source\repos\CashierAppSol\CashierApp\bin\Debug\CashierApp.pdb
+C:\Users\yazid\source\repos\CashierAppSol\CashierApp\obj\Debug\CashierApp.csproj.AssemblyReference.cache
+C:\Users\yazid\source\repos\CashierAppSol\CashierApp\obj\Debug\CashierApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\yazid\source\repos\CashierAppSol\CashierApp\obj\Debug\CashierApp.Form1.resources
+C:\Users\yazid\source\repos\CashierAppSol\CashierApp\obj\Debug\CashierApp.Properties.Resources.resources
+C:\Users\yazid\source\repos\CashierAppSol\CashierApp\obj\Debug\CashierApp.csproj.GenerateResource.cache
+C:\Users\yazid\source\repos\CashierAppSol\CashierApp\obj\Debug\CashierApp.csproj.CoreCompileInputs.cache
+C:\Users\yazid\source\repos\CashierAppSol\CashierApp\obj\Debug\CashierApp.exe
+C:\Users\yazid\source\repos\CashierAppSol\CashierApp\obj\Debug\CashierApp.pdb
